@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gnilvan/monstersFunctional/static/css/main.d6937e52.css",
+    "main.js": "/gnilvan/monstersFunctional/static/js/main.9364aa61.js",
+    "static/js/787.71774a75.chunk.js": "/gnilvan/monstersFunctional/static/js/787.71774a75.chunk.js",
+    "index.html": "/gnilvan/monstersFunctional/index.html",
+    "main.d6937e52.css.map": "/gnilvan/monstersFunctional/static/css/main.d6937e52.css.map",
+    "main.9364aa61.js.map": "/gnilvan/monstersFunctional/static/js/main.9364aa61.js.map",
+    "787.71774a75.chunk.js.map": "/gnilvan/monstersFunctional/static/js/787.71774a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6937e52.css",
+    "static/js/main.9364aa61.js"
+  ]
+}
