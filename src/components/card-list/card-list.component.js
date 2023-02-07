@@ -5,7 +5,7 @@ const CardList = ({monsters}) => (
     <div className='card-list'> 
       {monsters.map((monster) => <Card monster={monster} key={monster.id}/>)}
     </div>
-  ); 
+  );
 
 // class CardList extends Component {
 //   render() {
